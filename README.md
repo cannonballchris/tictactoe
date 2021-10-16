@@ -1,2 +1,4 @@
 # tictactoe
-A simple GUI Tic Tac Toe Game.
+Usage: 
+
+To test the code, please install `pygame` module by typing `pip install pygame` in the console.
