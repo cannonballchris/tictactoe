@@ -2,7 +2,7 @@
 import pygame, sys
 import numpy as np
 
-#Initializing the game.
+#Game Initialization
 pygame.init()
 
 #Constants.
